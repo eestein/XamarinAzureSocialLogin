@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="XamarinAzureSocialLogin\XamarinAzureSocialLogin.WinPhone\XamarinAzureSocialLogin.WinPhone.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinAzureSocialLogin" expanded="True">
+            <Node name="XamarinAzureSocialLogin.Droid" expanded="True" />
+            <Node name="XamarinAzureSocialLogin.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
